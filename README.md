@@ -2,8 +2,7 @@
 
 ###**_About_**
 
-This is a **_WORK IN PROGRESS_**
-\n
+This is a **_WORK IN PROGRESS_**  
 Simple library to send slack messages
 
 ###**_Usage_**
